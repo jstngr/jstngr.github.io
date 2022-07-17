@@ -1,0 +1,13 @@
+.PageNotFound {
+    color: #2e3192;
+}
+
+.PageNotFound-icon svg {
+    height: 8em;
+    width: 8em;
+}
+
+.PageNotFound h1 {
+    margin-bottom: .5rem;
+    margin-top: 0;
+}
