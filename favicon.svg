@@ -1,0 +1,21 @@
+<svg viewBox="29.259 35.863 110 102" xmlns="http://www.w3.org/2000/svg"
+  xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="gradient-1-1" gradientUnits="userSpaceOnUse" x1="55" y1="0" x2="55" y2="102"
+      href="#gradient-1" />
+    <linearGradient id="gradient-1" pinned="true">
+      <stop offset="0" style="stop-color: rgb(2, 67, 201);" />
+      <stop offset="1" style="stop-color: rgb(168, 102, 231);" />
+    </linearGradient>
+  </defs>
+  <g id="SvgjsG2742" featurekey="symbolContainer" fill="#6bc5d2"
+    transform="matrix(1, 0, 0, 1, 29.259211, 35.862827)">
+    <rect width="110" height="102" rx="8" style="paint-order: fill; fill: url(#gradient-1-1);" />
+  </g>
+  <g id="SvgjsG2743" featurekey="monogramFeature-0"
+    transform="matrix(1.615509, 0, 0, 1.615509, 41.423992, 26.630194)" fill="#390050">
+    <path
+      d="M46.08 15 q0.84 0 1.47 0.63 t0.63 1.47 l0 40.2 q0 0.84 -0.63 1.47 t-1.47 0.63 l-4.56 0 q-0.9 0 -1.5 -0.63 t-0.6 -1.47 l0 -27.12 l-11.1 14.28 q-0.66 0.78 -1.68 0.78 l0 0 q-0.48 0 -0.96 -0.21 t-0.72 -0.63 l-19.68 -26.04 q-0.36 -0.42 -0.42 -1.05 t0.24 -1.14 t0.78 -0.84 t1.08 -0.33 l5.28 0 q1.02 0 1.68 0.84 l12.72 16.8 l12.42 -16.8 q0.66 -0.84 1.74 -0.84 l5.28 0 z M11.52 44.1 q0.84 0 1.47 0.6 t0.63 1.5 l0 11.1 q0 0.84 -0.63 1.47 t-1.47 0.63 l-4.56 0 q-0.84 0 -1.47 -0.63 t-0.63 -1.47 l0 -11.1 q0 -0.9 0.63 -1.5 t1.47 -0.6 l4.56 0 z"
+      style="fill: rgb(255, 255, 255);" />
+  </g>
+</svg>
