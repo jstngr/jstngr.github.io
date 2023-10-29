@@ -1,22 +1,29 @@
 import React from 'react';
-import { BrowserRouter } from 'react-router-dom';
-import './App.css';
-
-import FavIcon from 'assets/favicon.svg';
 import Header from 'components/header';
+import Portrait from 'assets/portrait.png';
+import './App.css';
 
 export default function App() {
   return (
     <>
       <Header />
       {/* <nav>nav</nav>
-      <aside>aside</aside>
+      <aside>aside</aside> */}
       <main>
-        <h1>This is the title</h1>
-        <section>section</section>
-        <article>article</article>
+        <section>
+          <h2>Hey, im Tobi</h2>
+          <h1>Lead Engineer</h1>
+          <p>
+            at <a href="https://sosafe-awareness.com/">SoSafe</a>
+          </p>
+        </section>
+
+        <section className="PortraitSection">
+          <img src={Portrait} alt="My" className="PortraitSection-portrait"></img>
+          <img src={Portrait} alt="My" className="PortraitSection-portrait background"></img>
+        </section>
       </main>
-      <footer>footer</footer> */}
+      {/* <footer>footer</footer>  */}
     </>
   );
 }

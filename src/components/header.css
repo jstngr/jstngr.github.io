@@ -9,7 +9,7 @@ header > nav > ul {
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  gap: 32px;
+  gap: 48px;
 }
 
 header > nav > ul > li {
