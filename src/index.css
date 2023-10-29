@@ -31,9 +31,18 @@
   height: 100%;
   width: 100%;
   background-color: var(--main-color);
+
+  font-family: "Poppins", ui-sans-serif, system-ui, -apple-system, "system-ui",
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 body {
   height: 100%;
   width: 100%;
+}
+
+h1 {
+  font-family: "Poppins";
+  font-weight: 700;
 }
