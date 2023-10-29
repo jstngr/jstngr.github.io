@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <PageNotFound />
-        Test
+        Test 2
       </header>
     </div>
   );
