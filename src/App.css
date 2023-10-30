@@ -22,6 +22,9 @@
   max-width: 400px;
   max-height: 400px;
   padding: 8px;
+  border-radius: 30% 70% 67% 33% / 30% 30% 70% 70%;
+  overflow: hidden;
+  background-color: var(--secondary-color);
 }
 
 .PortraitSection-portrait {
